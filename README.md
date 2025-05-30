@@ -223,7 +223,28 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 
 - ### Learning Path by [Sayed Alesawy](https://www.linkedin.com/in/sayed-alesawy/) (Lead Software Engineer at Instabug)
 
-  - [Learning Path](https://x.com/sayed_alesawy/status/1795550660999442580)
+> انا رأى انه فيه ٤ مراحل تتعلم بيهم databases.
+> 
+>    1. أنك بتتعلم ال design، يعنى بتتعلم ازاى تقرأ مشكلة وتطلع ال entities منها وتطلع ال relations بينهم وتترجم ده لى database tables وتختار ال data types المناسبة، وتتعلم حاجات زى ال normal forms و الفرق بين ال normalization و ال de normalization وهكذا. كمان هنا ممكن تتعلم عن ال different data models الى موجودة زى مثلا ايه الفرق بين ال relational و ال document models مثلا وغيرهم.
+>     
+>    2. انك تتعلم ازاى بقى تعمل حاجات مفيدة بال database دى، فا تتعلم SQL مثلا، ازاى تكتب حاجات بت select data او بتعمل aggregations او بت manipulate ال data دى وهكذا. وكمان حاجات ازاى تعمل مثلا views وتستخدم triggers وتعمل summary tables وكده.
+> 
+>    3. انك تبتدى تتعلم عن ال database internals, مثلا ال storage شعالة ازاى، ازاى ال data دى موجودة على ال disk وبتتجاب ازاى، وال memory management بتحصل ازاى، و ال encoding و ال compression الى ممكن يكون بيحصل لل data، و ال indexes مثلا عاملة ازاى، ايه انواعها وايه مميزات وعيوب كل نوع، وازاى تعرف تستخدمها وتعمل performance tuning كويس، وتتعلم مثلا عن حاجات عن زى ال isolation levels و ازاى ال database بتتعامل مع ال concurrency، وتتعلم حاجات زى ال query execution بيحصل ازاى، وازاى ال query optimizer بيشتغل مثلا وتعرف اهم انواع queries بتتعمل ازاى، زى مثلا ال joins و ال ordering و ال sub queries و ال common table expressions والحاجات تبقى فاهم بتشتغل ازاى عشان تستخدمها صح وتعرف ال performance impact بتاعها وازاى تعملها optimizations وهكذا. كمان تتعلم عن ال database maintenance، تعرف انهى operations ممكن تتعمل online وايه لا وتقدر تعمل migrations من غير ما تسبب downtime وكده.
+>     
+>    4. انك تبتدى تتعلم اكتر بقى عن المواضيع المتقدمة زى ال distributed databaes و ال replication و ال sharding و ال failure recovery وهكذا.
+> 
+> طيب أتعلم الكلام ده منين؟
+> 
+>   1. اول مرحلة دى اى كتاب بيتكلم عن fundamentals of databases هيبقى كفاية اول كام chapter منهم. وده عموما الجزء الى بيدرس فى أغلب الجامعات. اشهر كتاب اظن عدا علينا كلنا، fundamentals of database systems بتاع رامز المصرى. او فيه كتاب تانى اسمه Database systems concepts لطيف برضه. هتقرأ لحد chapter 9, ده هيغطى معاك الجزء التانى كمان.
+>     
+>   2. لو قريت لحد chapter 9، فا كده تمام. حاول ت practice بقى انك تحل مسائل تكتب فيها queries، ممكن تلاقى على hackerrank او dataford او غيرهم. ده برضه بيدرس فى أغلب الجامعات ولكن مش كل حاجة.
+> 
+>   3. ده برضه غالبا لو كملت فى اى كتاب fundamentals هتلاقى بيغطى الجزء. انا بحب high performance mysql أكتر هنا بصراحة. ده ممكن اصعب جزء ومهم حدا بيفرق مستوى الناس عن بعض جامد، وجامعات قليلة جدا الى بتدرس شويه مواضيع منه.
+>     
+>   4. دى معرفش كتب فى الحوار ده، بس فيه papers حلوة بقى زى ال papers بتاعة AWS Aurora مثلا. وعموما هيبقى مفيد هنا لو اتعلمت distributed systems concepts الاول عشان تفهم. ممكن تقرأ مثلا distributed systems for fun and profit كتاب صغير جدا بيقدم الموضوع بشكل كويس.
+> 
+>     لو انت من الناس الى بتحب ال courses، خصوصا لو طالب وعندم وقت وطاقة تقعد بقى تقرا slides وتعمل assignments و projects. ارشحلك CMU
+>     
 
 - ### Recources by [Ahmed Ayman](https://www.linkedin.com/in/ahmedaymanbfcai/) (~3 years of experience in the software field)
 
