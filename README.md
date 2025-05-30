@@ -243,8 +243,7 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 >     
 >   4. دى معرفش كتب فى الحوار ده، بس فيه papers حلوة بقى زى ال papers بتاعة AWS Aurora مثلا. وعموما هيبقى مفيد هنا لو اتعلمت distributed systems concepts الاول عشان تفهم. ممكن تقرأ مثلا distributed systems for fun and profit كتاب صغير جدا بيقدم الموضوع بشكل كويس.
 > 
->     لو انت من الناس الى بتحب ال courses، خصوصا لو طالب وعندم وقت وطاقة تقعد بقى تقرا slides وتعمل assignments و projects. ارشحلك CMU
->     
+> لو انت من الناس الى بتحب ال courses، خصوصا لو طالب وعندم وقت وطاقة تقعد بقى تقرا slides وتعمل assignments و projects. ارشحلك CMU
 
 - ### Recources by [Ahmed Ayman](https://www.linkedin.com/in/ahmedaymanbfcai/) (~3 years of experience in the software field)
 
